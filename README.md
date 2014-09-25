@@ -2,6 +2,7 @@
 
 MuleSoft Anypoint Connector For Mockaroo API. The Mockaroo REST API allows your application to download randomly generated data based on a saved schema or fields you define at runtime. Anything you can generate via the website can also be generated via the REST API.
 
+Example of API using JSFiddle can be found here: http://jsfiddle.net/vmgpycg5/
 
 # Mule supported versions
 Mule 3.5.x
