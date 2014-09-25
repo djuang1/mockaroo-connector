@@ -1,23 +1,16 @@
 # Mockaroo Anypoint Connector
 
-[Connector description including destination service or application with]
+MuleSoft Anypoint Connector For Mockaroo API. The Mockaroo REST API allows your application to download randomly generated data based on a saved schema or fields you define at runtime. Anything you can generate via the website can also be generated via the REST API.
+
 
 # Mule supported versions
-Examples:
-Mule 3.4.x, 3.5.x
-Mule 3.4.1
+Mule 3.5.x
 
-# [Destination service or application name] supported versions
-Example:
-Oracle E-Business Suite 12.1 and above.
+# Mockaroo supported versions
+Mockaroo API 1.0
 
 #Service or application supported modules
-Example:
-Oracle CRM
-Oracle Financials
-or 
-Salesforce API v.24
-Salesforce Metadata API
+Mockaroo - http://www.mockaroo.com/api/docs
 
 
 # Installation 
@@ -27,8 +20,8 @@ For released connectors you can download them from the update site in Studio.
 Open MuleStudio, go to Help → Install New Software and select MuleStudio Cloud Connectors Update Site where you’ll find all avaliable connectors.
 
 #Usage
-For information about usage our documentation at http://github.com/mulesoft/mockaroo.
+For information about usage our documentation at http://github.com/djuang1/mockaroo-connector.
 
 # Reporting Issues
 
-We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link http://github.com/mulesoft/mockaroo/issues.
+We use GitHub:Issues for tracking issues with this connector. You can report new issues at this link http://github.com/djuang1/mockaroo-connector/issues.
