@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(mockaroo:get-mockaroo) -->
+    <mockaroo:get-mockaroo callback="#[message.payload['callback']]" count="#[message.payload['count']]" fields="#[message.payload['fields']]" include_header="#[message.payload['include_header']]" schema="#[message.payload['schema']]" />
+<!-- END_INCLUDE(mockaroo:get-mockaroo) -->
